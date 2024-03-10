@@ -20,5 +20,5 @@
 
 ## Autor
 
-| [<img src="https://avatars.githubusercontent.com/u/69592681?v=4" width=115><br><sub>Ricardo Choque</sub>](https://github.com/camilafernanda)
+| [<img src="https://avatars.githubusercontent.com/u/69592681?v=4" width=115><br><sub>Ricardo Choque</sub>](https://github.com/xRicardo)
 | :---: | 
