@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/STATUS-EN%20DESARROLLO-green">
 </p>
 
-*[Este proyecto tiene como objetivo replicar replicar sitios web existentes utilizando las siguientes tecnologias](#descripción-del-proyecto)
+*[Este proyecto tiene como objetivo replicar sitios web existentes utilizando las siguientes tecnologias](#descripción-del-proyecto)
 
 - `1. HTML (HyperText Markup Language):`
     - Estructura básica de la página.
