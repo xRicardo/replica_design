@@ -8,4 +8,14 @@
 
 *[Este proyecto tiene como objetivo replicar replicar sitios web existentes utilizando las siguientes tecnologias](#descripción-del-proyecto)
 
+- `1. HTML (HyperText Markup Language):`
+    - Estructura básica de la página.
+    - Etiquetas para encabezados, párrafos, imágenes y enlaces
+- `2. CSS (Cascading Style Sheets):`
+    - Estilo visual de los elementos HTML.
+    - Control de colores, fuentes, márgenes y diseños.
+- `3. Javascript:`
+    - Interactividad y funcionalidad.
+    - Manipulación del DOM (Document Object Model).
+
     
