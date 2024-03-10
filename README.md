@@ -18,4 +18,7 @@
     - Interactividad y funcionalidad.
     - Manipulación del DOM (Document Object Model).
 
-    
+## Autor
+
+| [<img src="https://avatars.githubusercontent.com/u/69592681?v=4" width=115><br><sub>Ricardo Choque</sub>](https://github.com/camilafernanda)
+| :---: | 
