@@ -1,0 +1,160 @@
+:root {
+    --fb-logo: #0866FF;
+    --always-white: white;
+    --primary-button-background: #0866FF;
+    --primary-icon: #E4E6EB;
+    --secondary-icon: #B0B3B8;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    direction: ltr;
+    flex-grow: 1;
+    justify-content: space-between;
+    height: 80px;
+    background: black;
+    gap: 150px;
+    /* background: rgb(176, 179, 184); */
+}
+
+.navbar {
+    font-family: inherit;
+    justify-content: center;
+    display: flex;
+    height: 56px;
+}
+
+ul {
+    align-items: flex-end;
+    justify-content: center;
+    display: flex;
+    flex-grow: 1;
+    padding-right: 110px;
+    padding-left: 110px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+    flex-grow: 1;
+    min-width: 50px;
+}
+
+ul li span {
+    display: inherit;
+    max-height: inherit;
+    min-width: inherit;
+    height: inherit;
+    min-height: inherit;
+    width: inherit;
+    max-width: inherit;
+}
+
+ul li span .style-links {
+    align-items: center;
+    position: relative;
+}
+
+.section {
+    display: flex;
+    gap: 15px;
+}
+
+.search {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    background-color: #1d1d1d;
+    border: 1px solid #464748;
+    padding: 6px;
+    border-radius: 50px;
+    margin: 3px;
+}
+
+i {
+    color: #fff;
+    cursor: pointer;
+}
+
+.search input {
+    width: 100%;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    /* color: #fff; */
+}
+
+.facebook::before {
+    content: url("./icons/facebook.svg");
+    margin: 0 1em 0 1em;
+}
+.home::before {
+    content: url("./icons/home.svg");
+    color:var(--secondary-icon);
+}
+.game::before {
+    content: url("./icons/game.svg");
+    color:var(--secondary-icon);
+}
+.video::before {
+    content: url("./icons/video.svg");
+    color:var(--secondary-icon);
+}
+.store::before {
+    content: url("./icons/store.svg");
+    color:var(--secondary-icon);
+}
+.community::before {
+    content: url("./icons/community.svg");
+    color:var(--secondary-icon);
+}
+.menu::before {
+    content: url("./icons/menu.svg");
+    color:var(--secondary-icon);
+}
+.message::before {
+    content: url("./icons/message.svg");
+    color:var(--primary-icon);
+}
+.notification::before {
+    content: url("./icons/notification.svg");
+    color:var(--primary-icon);
+}
+
+.icons {
+    display: flex;
+    gap: 1px;
+}
+
+.icons a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    text-align: center;
+    background-color: #464748;
+    padding: 10px;
+    width: 30px;
+    height: 30px;
+}
+
+.icons i {
+    color: white;
+}
